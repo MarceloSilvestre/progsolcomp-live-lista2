@@ -1,0 +1,1 @@
+Segunda lista de exercicios da UC Programação de soluções computacionais.
